@@ -1,10 +1,11 @@
-# ChangeModuleName
+# ChangeModuleName  
 MITRE ATT&amp;CK Submission - Changing Module names at runtime  
 
 This topic has been accepted into MITRE's research queue as of Sept. 6 2023, and is pending real-world adversary usage examples. Have you seen an example of this technique being used in the wild? I'd love to hear from you, and my e-mail can be found on my profile page.  
 
-**By: AlSch092 For: MITRE ATT&CK  **
-**Technique Name**: Change Module Names in Running Processes  
+**By: AlSch092 For: MITRE ATT&CK**  
+
+**Technique Name**: Change Module Names in Running Processes   
 **Tactic**: Defense Evasion  
 **Platform**: Windows  
 **Required Permissions**: User  
